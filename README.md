@@ -1,5 +1,4 @@
-# Html-Learning
-This is basic html learning webpage
+
 <!-- declration html doc-->
 <!DOCTYPE html>
 <html>
@@ -56,64 +55,9 @@ This is basic html learning webpage
       &lt;/p&gt<br><br>
       <a href=#html-link-element>Back to header 1 and 
       paragraph link</a><br><br>
-      HTML CSS Result
       
-<!-- declration html doc-->
-<!DOCTYPE html>
-<html>
-  <!--heading part-->
-  <head>
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <title>Html Element</title>
-    </head>
-  
-  
-  <!-- body section-->
-  <body>
+      
     
-    <!-- h1-heading and subtitle of the page-->
-    
-    <h1 id="title">Welcome to Html learning Page</h1>
-    <h2 id="subtitle">Click following html element to see tag</h2>
-    
-    
-    <!-- navigational link for heading part-->
-    
-    <div id="html-link-element">
-      <a href="#image">click to see image</a><br>
-      <a href="#heading1">click  to see heading 1 and paragraph</a><br>
-      <a href="#heading2">click to see heading 2 and paragraph</a> <br>
-      <a href="#heading3">click to see heading 3 and paragraph</a><br>
-      <a href="#heading4">click to see heading 4 and paragraph</a><br>
-      <a href="#heading5">click to see heading 5 and paragraph</a><br>
-      <a href="#heading6">click to see heading 6 and paragraph</a><br>
-     <a href="#label1">Click to see label </a><br> 
-     <a href="#option1">Click to see option</a><br>
-      <a href="#list1">Click to see list </a><br>
-      <a href="#table1">Click to see table</a><br>
-      <a href="#form1">Click to see form</a><br>
-      </div>
-    
-    <!--img section-->
-    
-    <div id="img-section">
-    <br><br>&lt;src img="url"&gt
-      <img  src="https://images.freeimages.com/images/large-previews/f5d/butterfly-1378183.jpg" id="image">
-      <br>
-      <a href=#html-link-element>Back to navigation link</a>
-      </div>
-    
-    
-    <!-- h1 tag and linked section with id-->
-    
-    <div id="heading-element">
-      <br>
-      <br>&lth1&gt
-    <h1 id="heading1">Heading 1 </h1>
-      <br>
-      &lt;/h1&gt
-      <br><br>
-         
       <br>&lth2&gt<br>
   <h2 id="heading2">Heading 2 </h2>
       <br>&lt;/h2&gt <br> <br>
